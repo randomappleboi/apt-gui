@@ -17,7 +17,7 @@ if os.geteuid() != 0:
 
 dist_name = distro.linux_distribution(full_distribution_name=False)[0].lower()
 
-if 'ubuntu' in dist_name or 'debian' in dist_name:
+if 'ubuntu' in dist_name or 'debian' in dist_name or 'linuxmint' in dist_name:
     print(f"The Linux distribution '{dist_name}' is compatible!")
 else:
     root = tk.Tk()
