@@ -98,6 +98,10 @@ Getting Started
 
     3: You are done! The window should spawn!
 
+    4: If you EVER want to use the script again, use the following command:
+
+    sudo python3 apt.py
+
 Compatibility
 
     The script is designed for Debian-based Linux distributions like Ubuntu and Debian. It checks for compatibility with the distribution during startup.
