@@ -117,5 +117,3 @@ Author
 
 Enjoy using this APT package management GUI!
 
-Please do NOT redistribute, redistribute a changed version or do anything else than using it normally. You are allowed to modify it, to improve it or to change it, but you must NOT redistribute said version without MY PERMISSION.
-Should you encounter any issues, please let me know on reddit
